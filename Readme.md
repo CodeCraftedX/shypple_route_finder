@@ -20,8 +20,13 @@ cd shypple_route_finder
 
 ### 📝 Sample Usage
 Enter Origin :
+
 CNSHA
+
 Enter Destination :
+
 NLRTM
+
 Enter Criteria :
+
 cheapest-direct
